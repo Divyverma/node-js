@@ -1,0 +1,24 @@
+{
+  "name": "3.package-json",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Divyverma/node-js.git)"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "js"
+  ],
+  "author": "Divyansh verma",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
